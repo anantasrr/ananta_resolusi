@@ -6,3 +6,6 @@ RENCANA KONTEN ANANTA
   => Setup
   => State
 ==> Angular
+==> Next JS
+==> Vue JS
+
