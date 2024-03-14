@@ -5,5 +5,4 @@ RENCANA KONTEN ANANTA
 ==> React JS
   => Setup
   => State
-==> Next JS
 ==> Angular
