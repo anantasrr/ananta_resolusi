@@ -1,3 +1,4 @@
 RESOLUSI 2024
 - Konsisten Belajar 4 Jam
 - Paham Web Development
+- Paham 2 FrameWork Javascript
