@@ -1,4 +1,7 @@
 RENCANA KONTEN ANANTA
 ==> Javascript
+  => ES6
+  => ES8
 ==> React JS
+  => Setup
 ==> Next JS
