@@ -4,4 +4,6 @@ RENCANA KONTEN ANANTA
   => ES8
 ==> React JS
   => Setup
+  => State
 ==> Next JS
+==> Angular
